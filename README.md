@@ -1,1 +1,3 @@
 # CattPhotoApp
+
+Esse foi o projeto onde eu aprendi a fazer um site básico em HTML...
